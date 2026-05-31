@@ -4,13 +4,10 @@
 # Windows
 Thumbs.db
 desktop.ini
-*.stackdump
 
 # macOS
 .DS_Store
 
 # Others
 .claude
-docs
 .sandbox
-.playwright-mcp
